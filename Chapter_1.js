@@ -1,5 +1,4 @@
-export function Chapter_1() {
-  return [
+[
     // title
     {
       type: "title",
@@ -148,5 +147,5 @@ export function Chapter_1() {
         actions are executed.
       `,
     },
-  ];
-}
+  ]
+

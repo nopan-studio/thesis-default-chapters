@@ -1,5 +1,4 @@
-export function Chapter_11() {
-  return [
+[
     // title
     {
       type: "title",
@@ -2163,5 +2162,4 @@ return node;
 	createTextNode.
       `,
     },
-  ];
-}
+  ]

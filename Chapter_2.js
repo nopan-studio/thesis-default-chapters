@@ -1,5 +1,4 @@
-export function Chapter_2() {
-  return [
+[
     // title
     {
       type: "title",
@@ -2203,5 +2202,4 @@ Java Instance Variable
       type: "video",
       value: "https://youtube.com/embed/UcsoLgBaGmg",
     },
-  ];
-}
+  ]

@@ -1,5 +1,4 @@
-export function Chapter_5(){
-  return [
+[
 // title
 {
  type: "title",
@@ -1259,5 +1258,4 @@ export function Chapter_5(){
    The current year is not a leap year
  `,
 },
-];
-}
+]

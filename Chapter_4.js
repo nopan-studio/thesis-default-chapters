@@ -1,5 +1,4 @@
-export function Chapter_4() {
-  return [
+[
     // title
     {
       type: "title",
@@ -718,5 +717,4 @@ export function Chapter_4() {
       type: "video",
       value: "https://youtube.com/embed/0tDMZFyfNpY",
     },
-  ];
-}
+  ]
